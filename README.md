@@ -45,13 +45,13 @@
 
 
 ## 🌟 Projects
-### [Book Recommender System](https://github.com/johndoe/book-recommender-system)
+### [Book Recommender System](https://github.com/Tanushka1234/book-recommender-system)
 Developed a book recommender system using HTML and Python. This project leverages collaborative filtering and content-based filtering to recommend books to users based on their reading history and preferences.
 
-### [House Price Prediction](https://github.com/johndoe/house-price-prediction)
+### [House Price Prediction](https://github.com/Tanushka1234/house-price-prediction)
 Implemented a house price prediction model using Jupyter Notebooks. Utilized regression algorithms to predict house prices based on various features such as location, size, and amenities, achieving a high degree of accuracy.
 
-### [Spam Mail Filtering](https://github.com/johndoe/spam-mail-filtering)
+### [Spam Mail Filtering](https://github.com/Tanushka1234/spam-mail-filtering)
 Built a spam mail filtering system using Jupyter Notebooks. Applied natural language processing techniques and machine learning algorithms to classify emails as spam or non-spam with high precision.
 
 
