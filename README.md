@@ -56,7 +56,7 @@ Implemented a house price prediction model using Jupyter Notebooks. Utilized reg
 ### [Spam Mail Filtering](https://github.com/Tanushka1234/spam-mail-filtering)
 Built a spam mail filtering system using Jupyter Notebooks. Applied natural language processing techniques and machine learning algorithms to classify emails as spam or non-spam with high precision.
 
-### [Online Tourist Spot Booking Website](https://github.com/Tanushka1234/online-tourist-booking)
+### [Online Tourist Spot Booking Website](https://github.com/Tanushka1234/Explore-Kolkata-Online-Tourist-Spot-Booking)
 Created a comprehensive guide to exploring the city of Kolkata. The website serves as a resource for tourists and travel enthusiasts seeking information about attractions, historical landmarks, and experiences in Kolkata. Utilized the MERN stack to develop a dynamic and user-friendly platform.
 
 ## 📈 GitHub Stats
